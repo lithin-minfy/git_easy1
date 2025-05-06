@@ -6,10 +6,6 @@ This assignment demonstrates the use of basic Git commands to track changes in a
 ## Description
 I created a simple text file introducing myself. Over three commits, I refined the content for clarity, correctness, and professionalism.
 
-## Commit History Screenshot
-
-> ![Git Log Output](.\git log ss.png)
-
 ## Explanation of Each Commit
 
 ### 1. Initial commit - Add basic introduction
